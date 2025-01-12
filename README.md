@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Shreyavallabh
-- 👀 I’m interested in Coding 
+- 👋 Hi, I’m @ShreyaVallabh
+- 👀 I’m interested in cloud computing, computer netwroks
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/shreya-vallabh-658018273
+- 📫 How to reach me https://www.linkedin.com/in/shreya-vallabh
 
 <!---
 Shreyavallabh/Shreyavallabh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
