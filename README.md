@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShreyaVallabh
+- 👋 Hi, I’m @Shreya Vallabh
 - 👀 I’m interested in cloud computing, computer netwroks
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
